@@ -1,6 +1,4 @@
 
 Hello master
 
-hello feature1
-
 
