@@ -1,10 +1,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 =======
 Hello
 >>>>>>> feature1
+=======
+Hello Yash
+>>>>>>> feature2
 =======
 Hello Yash
 >>>>>>> feature2
