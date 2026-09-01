@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hi
-=======
-Hello
->>>>>>> feature1
+Hello master
