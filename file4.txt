@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 =======
 Hello
 >>>>>>> feature1
+=======
+Hello Yash
+>>>>>>> feature2
