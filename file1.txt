@@ -1,5 +1,3 @@
 
 Hello feature1
 
-Hello Master
-
